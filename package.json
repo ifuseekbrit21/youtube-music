@@ -275,7 +275,7 @@
     "filenamify": "6.0.0",
     "hanja": "1.1.4",
     "happy-dom": "17.4.4",
-    "hono": "4.7.5",
+    "hono": "4.11.4",
     "howler": "2.2.4",
     "html-to-text": "9.0.5",
     "i18next": "24.2.3",
@@ -301,7 +301,7 @@
     "ts-morph": "25.0.1",
     "vudio": "2.1.1",
     "x11": "2.3.0",
-    "youtubei.js": "13.3.0",
+    "youtubei.js": "15.0.0",
     "zod": "3.24.2"
   },
   "devDependencies": {
